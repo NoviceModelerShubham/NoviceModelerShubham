@@ -16,8 +16,6 @@
   
 📚 B.Tech. in Agricultural Engineering from Maharashtra Institute Of Technology Aurangabad (MIT, Aurangabad)
 
-🌍 Passionate about Climate and Weather Modeling and Forecasting
-
 🛰️ Utilizing Satellite, observed, and model Data to Understand Global Weather Patterns
 
 🌩️ Collaborating on Open-Source Projects for Weather Research
